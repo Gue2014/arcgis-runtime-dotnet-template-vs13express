@@ -1,0 +1,30 @@
+C:\Users\cra288\Documents\Visual Studio 2013\Projects\simpleMap\simpleMap\bin\Debug\simpleMap.exe.config
+C:\Users\cra288\Documents\Visual Studio 2013\Projects\simpleMap\simpleMap\bin\Debug\simpleMap.exe
+C:\Users\cra288\Documents\Visual Studio 2013\Projects\simpleMap\simpleMap\bin\Debug\simpleMap.pdb
+C:\Users\cra288\Documents\Visual Studio 2013\Projects\simpleMap\simpleMap\bin\Debug\Esri.ArcGISRuntime.dll
+C:\Users\cra288\Documents\Visual Studio 2013\Projects\simpleMap\simpleMap\bin\Debug\Esri.ArcGISRuntime.xml
+C:\Users\cra288\Documents\Visual Studio 2013\Projects\simpleMap\simpleMap\obj\Debug\simpleMap.csprojResolveAssemblyReference.cache
+C:\Users\cra288\Documents\Visual Studio 2013\Projects\simpleMap\simpleMap\obj\Debug\MainWindow.baml
+C:\Users\cra288\Documents\Visual Studio 2013\Projects\simpleMap\simpleMap\obj\Debug\MainWindow.g.cs
+C:\Users\cra288\Documents\Visual Studio 2013\Projects\simpleMap\simpleMap\obj\Debug\App.g.cs
+C:\Users\cra288\Documents\Visual Studio 2013\Projects\simpleMap\simpleMap\obj\Debug\simpleMap_MarkupCompile.cache
+C:\Users\cra288\Documents\Visual Studio 2013\Projects\simpleMap\simpleMap\obj\Debug\simpleMap.g.resources
+C:\Users\cra288\Documents\Visual Studio 2013\Projects\simpleMap\simpleMap\obj\Debug\simpleMap.Properties.Resources.resources
+C:\Users\cra288\Documents\Visual Studio 2013\Projects\simpleMap\simpleMap\obj\Debug\simpleMap.csproj.GenerateResource.Cache
+C:\Users\cra288\Documents\Visual Studio 2013\Projects\simpleMap\simpleMap\obj\Debug\simpleMap.exe
+C:\Users\cra288\Documents\Visual Studio 2013\Projects\simpleMap\simpleMap\obj\Debug\simpleMap.pdb
+C:\Users\cra288\Documents\GitHub\arcgis-runtime-dotnet-template-vs13express\simpleMap\bin\Debug\simpleMap.exe.config
+C:\Users\cra288\Documents\GitHub\arcgis-runtime-dotnet-template-vs13express\simpleMap\obj\Debug\simpleMap.exe
+C:\Users\cra288\Documents\GitHub\arcgis-runtime-dotnet-template-vs13express\simpleMap\obj\Debug\simpleMap.pdb
+C:\Users\cra288\Documents\GitHub\arcgis-runtime-dotnet-template-vs13express\simpleMap\obj\Debug\simpleMap.csprojResolveAssemblyReference.cache
+C:\Users\cra288\Documents\GitHub\arcgis-runtime-dotnet-template-vs13express\simpleMap\obj\Debug\MainWindow.baml
+C:\Users\cra288\Documents\GitHub\arcgis-runtime-dotnet-template-vs13express\simpleMap\obj\Debug\MainWindow.g.cs
+C:\Users\cra288\Documents\GitHub\arcgis-runtime-dotnet-template-vs13express\simpleMap\obj\Debug\App.g.cs
+C:\Users\cra288\Documents\GitHub\arcgis-runtime-dotnet-template-vs13express\simpleMap\obj\Debug\simpleMap_MarkupCompile.cache
+C:\Users\cra288\Documents\GitHub\arcgis-runtime-dotnet-template-vs13express\simpleMap\obj\Debug\simpleMap.g.resources
+C:\Users\cra288\Documents\GitHub\arcgis-runtime-dotnet-template-vs13express\simpleMap\obj\Debug\simpleMap.Properties.Resources.resources
+C:\Users\cra288\Documents\GitHub\arcgis-runtime-dotnet-template-vs13express\simpleMap\obj\Debug\simpleMap.csproj.GenerateResource.Cache
+C:\Users\cra288\Documents\GitHub\arcgis-runtime-dotnet-template-vs13express\simpleMap\bin\Debug\simpleMap.exe
+C:\Users\cra288\Documents\GitHub\arcgis-runtime-dotnet-template-vs13express\simpleMap\bin\Debug\simpleMap.pdb
+C:\Users\cra288\Documents\GitHub\arcgis-runtime-dotnet-template-vs13express\simpleMap\bin\Debug\Esri.ArcGISRuntime.dll
+C:\Users\cra288\Documents\GitHub\arcgis-runtime-dotnet-template-vs13express\simpleMap\bin\Debug\Esri.ArcGISRuntime.xml
